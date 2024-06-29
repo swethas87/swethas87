@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Swetha S
+- 👋 Hi, I’m Swetha Sayaboina
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning few technologies and tools used in DevOps
 - 💞️ I’m looking to collaborate on ...
