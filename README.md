@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swethas87
+- 👋 Hi, I’m Swetha S
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning few technologies and tools used in DevOps
 - 💞️ I’m looking to collaborate on ...
