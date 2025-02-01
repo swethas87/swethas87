@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Swetha Sayaboina
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning few technologies and tools used in DevOps
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m currently working as a Devops Support engineer and continuously learning new topics in DevOps.
 
 <!---
 swethas87/swethas87 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
